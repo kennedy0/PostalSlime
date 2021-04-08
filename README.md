@@ -1,4 +1,4 @@
-# PostalSlime
+![banner](postal_slime.png)
 Windows build of the Postal Slime mobile game.
 
 Created by [@sakuyawn](https://twitter.com/sakuyawn) and myself.
