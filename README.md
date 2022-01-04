@@ -1,5 +1,5 @@
 ![banner](postal_slime.png)
-Windows build of the Postal Slime mobile game.
+Postal Slime was developed for mobile, and was availbe on the Google Play Store for Android and the App Store for iOS. Although it is no longer available for either platform, I found this development build for Windows when cleaning out an old hard drive, so I'm releasing it for free. To my knowledge, it's 100% identical to the mobile version.
 
 Created by [@sakuyawn](https://twitter.com/sakuyawn) and myself.
 
